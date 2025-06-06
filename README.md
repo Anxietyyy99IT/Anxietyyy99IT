@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anxietyyy99IT
+- 👋 Hi, I’m @Anxiety
 - 👀 I’m interested in ...Informatic Tools & Programming  
 - 🌱 I’m currently learning ...C, Java and Python
 <!---
